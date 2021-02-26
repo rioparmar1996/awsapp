@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "awsappdf22fdba": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
